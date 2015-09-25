@@ -2,12 +2,10 @@
 
 In this repository, you will have access to all public-facing final software releases for EST products
 
-# Release Versions:
+Please visit this page for the latest software releases for EST products:
+https://github.com/ESTAnalytical/ESTSoftwareRelease/releases
 
-# EV - 2.2.13
-https://github.com/ESTAnalytical/ESTSoftwareRelease/releases/tag/EV-2.2.13
-
-# Testing Versions:
-
-# EV - 2.2.13.1
-https://github.com/ESTAnalytical/ESTSoftwareRelease/releases/tag/2.2.13.1
+Latest Versions: 
+EV - 2.2.13
+Centurion - 2.2.14
+LGX - 1.0.04
