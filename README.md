@@ -6,7 +6,7 @@ Please visit this page for the latest software releases for EST products:
 https://github.com/ESTAnalytical/ESTSoftwareRelease/releases
 
 Latest Versions: 
-* **EV - 2.2.14**
+* **EV - 2.3.01**
 * **Centurion - 2.3.01**
 * **LGX - 1.0.04**
 * **Flex - 1.0.06**
