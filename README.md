@@ -9,4 +9,4 @@ Latest Versions:
 * **EV - 2.3.01**
 * **Centurion - 2.3.01**
 * **LGX - 1.0.04**
-* **Flex - 1.0.06**
+* **Flex - 1.0.07**
